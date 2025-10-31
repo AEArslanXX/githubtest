@@ -16,4 +16,3 @@ while True:
     print("Sunucu yanıtı:", response.text)
  except Exception as e:
     print("Bağlantı hatası:", e)
-    print("Berkay Çok Yakışıklı")
